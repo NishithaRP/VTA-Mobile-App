@@ -1,0 +1,278 @@
+<resources>
+    <string name="app_name">VTA_Courses</string>
+
+    <string-array name="qualification_array">
+        <item>NVQ 3</item>
+        <item>NVQ 4</item>
+        <item>O Level</item>
+        <item>A Level</item>
+
+    </string-array>
+
+    <string name="app_name2">DATE</string>
+
+    <string name="ict_content"><![CDATA[
+
+    Duration: 1 Year & 6 Months \n \n
+
+    Entry Qualification: \n
+
+Successful Completion of NVQ Level o3 or 04 course in related area or pass 03 Subject in GCE (A/L) Technology Stream or Other relevant stream. with Credit Pass in English (G.C.E. (O/L)) or Successfully Completed English Course.
+   \n\n
+   Available Centers :
+    \n
+   VTC Horana \n \n
+
+    Course Fee: Rs.25,000
+
+]]></string>
+
+    <string name="ict4_content"><![CDATA[
+
+    Duration: 6 Months \n \n
+
+    Entry Qualification: \n
+
+Pass 06 subjects in G.C.E. (O/L) with credits in English and Maths   \n\n
+
+    Available Centers : \n
+
+    VTC Horana \n
+    VTC Aluthgama \n
+    VTC Meegahathanna \n
+
+ \n \n
+
+    Course Fee: Rs.25,000
+
+]]></string>
+
+    <string name="ictst_content"><![CDATA[
+
+    Duration: 12 Months \n \n
+
+    Entry Qualification: \n
+
+Pass 06 subjects in G.C.E.(O/L) with credits in English and Math  \n\n
+
+    Available Centers : \n
+
+    VTC Kalutara North \n
+
+ \n \n
+
+    Course Fee: Rs.25,000
+
+]]></string>
+
+    <string name="dp_content">
+
+
+
+    Duration: 12 Months \n \n
+
+    Entry Qualification: \n
+
+Pass 06 subjects in G.C.E.(O/L) with credits in English and Math  \n\n
+
+    Available Centers : \n
+
+    VTC Horana \n
+
+ \n \n
+
+    Course Fee: Rs.25,000
+
+    </string>
+
+    <string name="et_content"><![CDATA[
+
+      Duration: 12 Months \n \n
+
+    Entry Qualification: \n
+
+Pass 06 subjects in G.C.E.(O/L) with credits in English and Math  \n\n
+
+    Available Centers : \n
+
+    VTC Horana \n
+    VTC Walgama \n
+    VTC Aluthgama  \n
+
+ \n \n
+
+    Course Fee: Rs.25,000
+]]></string>
+
+    <string name="em_content"><![CDATA[
+
+    Duration: 12 Months \n \n
+
+    Entry Qualification: \n
+
+Pass 06 subjects in G.C.E.(O/L) with credits in English and Math  \n\n
+
+    Available Centers : \n
+
+    VTC Horana \n
+
+ \n \n
+
+    Course Fee: Rs.25,000
+
+]]></string>
+
+    <string name="af_content"><![CDATA[
+
+      Duration: 12 Months \n \n
+
+    Entry Qualification: \n
+
+Pass 06 subjects in G.C.E.(O/L) with credits in English and Math  \n\n
+
+    Available Centers : \n
+
+    VTC Horana \n
+
+ \n \n
+
+    Course Fee: Rs.25,000
+
+]]></string>
+
+    <string name="bk_content">
+
+    Duration: 12 Months \n \n
+
+    Entry Qualification: \n
+
+    Pass 06 subjects in G.C.E.(O/L) with credits in English and Math  \n\n
+
+    Available Centers : \n
+
+    VTC Horana \n
+
+    \n \n
+
+    Course Fee: Rs.25,000
+
+    </string>
+
+    <string name="ck_content">
+
+    Duration: 12 Months \n \n
+
+    Entry Qualification: \n
+
+    Pass 06 subjects in G.C.E.(O/L) with credits in English and Math  \n\n
+
+    Available Centers : \n
+
+    VTC Horana \n
+
+    \n \n
+
+    Course Fee: Rs.25,000/>
+
+</string>
+
+
+
+
+
+
+    <string name="np_content"><![CDATA[
+
+    Yalagala road, Wewala,Horana.   \n \n
+
+
+   <fontcolor="#FF0000">Contact Details</font> \n \n
+
+  710318866 710318753 \n \n
+
+]]></string>
+
+    <string name="hvtc_content"><![CDATA[
+
+     Isipathana Mawatha,Wewala,Horana. \n \n
+
+    Contact Details \n \n
+
+    710318870 710318753
+
+]]></string>
+
+
+
+    <string-array name="year_array">
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+    </string-array>
+
+    <string-array name="month_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <string-array name="day_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+
+</resources>
